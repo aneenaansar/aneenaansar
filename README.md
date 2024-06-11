@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm a Python Developer, passionate about coding an
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajina-santhosh-214b12298/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aneena-ansar/)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat!
