@@ -1,10 +1,10 @@
-# Hello, I'm Ajina Santhosh 👋
+# Hello, I'm Aneena Ansar👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajinasanthosh1997&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=aneenaansar&color=blue)
 
-Welcome to my GitHub profile! I'm a Python Developer, passionate about coding, open-source contributions, and web development.
+Welcome to my GitHub profile! I'm a Python Developer, passionate about coding and web development.
 
-- 📫 How to reach me: ajinasanthosh97@gmail.com
+- 📫 How to reach me: aneenaanzz123@gmail.com
 
 ## 🛠 Technologies & Tools
 
@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a Python Developer, passionate about coding, o
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinasanthosh1997&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneenaansar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneenaansar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF)
 
 
 ## 🤝 Connect with Me
